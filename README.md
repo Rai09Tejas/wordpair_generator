@@ -1,6 +1,6 @@
 # wordpair_generator
 
-A new Flutter project.
+A new Flutter project. It a random word pair generator using FLUTTER; which shows unlimited words. Referred from Traversy Media's Flutter crash Course.
 
 ## Getting Started
 
